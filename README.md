@@ -1,4 +1,4 @@
-# Boltzmann-equations
+# Leptogenesis
 # Leptogenesis Simulation
 
 This repository contains Python code used to simulate the generation of the baryon asymmetry of the universe via thermal leptogenesis. It includes numerical solutions to Boltzmann equations under different initial conditions for the lightest heavy neutrino N₁.
