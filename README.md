@@ -5,8 +5,9 @@ This repository contains Python codes used to simulate the generation of the bar
 ## 📄 Contents
 
 - `Leptogenesis Mass Bounds.py`: Main script for solving the Boltzmann equations and plotting results.
-- `Light vs. Heavy oscillations.py`: Plotting the neutrino oscillation probabilities for the light vs. heavy neutrinos.
-- `Damping effects.py`: Includes damping effects.
+- `Light vs. Heavy oscillations.py`: Plots the neutrino oscillation probabilities for the light vs. heavy neutrinos for two flavours.
+- `Damping effects.py`: Includes damping effects for two flavours.
+- `Three-Flavour scenario.py`: Compares the light vs heavy neutrino oscillation probabilities for three flavours.
 - `Plots/`: A folder with all generated plots including efficiency vs. effective neutrino mass and required M₁ vs. effective neutrino mass and neutrino oscillations probability.
 
 ## 🔧 Features
@@ -31,3 +32,4 @@ This repository contains Python codes used to simulate the generation of the bar
 python Leptogenesis Mass Bounds.py
 python Light vs. Heavy oscillations.py
 python Damping effects.py
+python Three-Flavour scenario.py
