@@ -1,6 +1,6 @@
 # Leptogenesis and Neutrino Oscillations Simulation
 
-This repository contains Python code used to simulate the generation of the baryon asymmetry of the universe via thermal leptogenesis alongside modeling neutrino oscillation probabilities, including effects of decay and coherence damping relevant for heavy neutrinos. It includes numerical solutions to Boltzmann equations under different initial conditions for the lightest heavy neutrino N₁. 
+This repository contains Python codes used to simulate the generation of the baryon asymmetry of the universe via thermal leptogenesis alongside modeling neutrino oscillation probabilities, including effects of decay and coherence damping relevant for heavy neutrinos. It includes numerical solutions to Boltzmann equations under different initial conditions for the lightest heavy neutrino N₁. 
 
 ## 📄 Contents
 
